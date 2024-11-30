@@ -5,8 +5,8 @@ Este repositório contém a implementação de métodos computacionais para dete
 # Objetivo  
 
 Desenvolver um pipeline computacional capaz de:  
-1. Calcular o deslocamento de borda (\(\Delta E\)) em espectros XANES.  
-2. Aplicar métodos baseados na integral da borda de absorção (Capehart et al.).  
+1. Calcular o deslocamento de borda em espectros XANES.  
+2. Aplicar métodos baseados na integral da borda de absorção (inspirado em Capehart et al.).  
 3. Validar as relações lineares estabelecidas (Wong et al.).  
 4. Propor melhorias e discutir limitações do método aplicado.
 
